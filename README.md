@@ -48,4 +48,4 @@ To be continued...
 5. Create a pull request
 
 ## License
-MIT License
+Apache license 2.0
